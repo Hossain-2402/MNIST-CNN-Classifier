@@ -78,7 +78,7 @@ Linear (32 → 10)
 
 - Optimizer: Adam
 - Loss Function: CrossEntropyLoss
-- Epochs: 20
+- Epochs: 10
 - Activation Function: ReLU
 - Pooling: MaxPooling
 
@@ -115,26 +115,16 @@ Through this project, I gained practical experience with:
 
 ---
 
-## Future Improvements
-
-- Increase model accuracy through hyperparameter tuning
-- Add Dropout and Batch Normalization
-- Experiment with deeper CNN architectures
-- Deploy the model as a web application using Streamlit or Flask
-
----
-
 ## Repository Structure
 
 ```
 ├── MNIST.ipynb
 ├── README.md
 ├── images/
-│   ├── prediction_2.png
-│   ├── prediction_4.png
-│   ├── prediction_6.png
-│   ├── prediction_9.png
-│   └── training_loss.png
+│   ├── pred_4.png
+│   ├── pred_6.png
+│   ├── pred_9.png
+│   └── loss_graph.png
 ```
 
 ---
@@ -143,4 +133,3 @@ Through this project, I gained practical experience with:
 
 **M. Hossain Ibna Ehsan**
 
-If you found this project interesting, feel free to ⭐ the repository or connect with me on LinkedIn.
