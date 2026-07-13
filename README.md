@@ -129,7 +129,4 @@ Through this project, I gained practical experience with:
 
 ---
 
-## Author
-
-**M. Hossain Ibna Ehsan**
 
