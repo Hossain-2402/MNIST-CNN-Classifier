@@ -120,11 +120,10 @@ Through this project, I gained practical experience with:
 ```
 ├── MNIST.ipynb
 ├── README.md
-├── images/
-│   ├── pred_4.png
-│   ├── pred_6.png
-│   ├── pred_9.png
-│   └── loss_graph.png
+├── pred_6.png
+├── pred_9.png
+├── pred_4.png
+└──  loss_graph.png
 ```
 
 ---
