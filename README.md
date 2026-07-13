@@ -123,7 +123,8 @@ Through this project, I gained practical experience with:
 ├── pred_6.png
 ├── pred_9.png
 ├── pred_4.png
-└──  loss_graph.png
+└── loss_graph.png
+
 ```
 
 ---
